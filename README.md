@@ -1,7 +1,11 @@
 
 
+https://user-images.githubusercontent.com/106212780/190518243-28f27d6d-aee1-4b14-b258-7f88af5424d9.mp4
+
+
+
 <h3 align="center">
-  Fron end Deadpool
+  Fron-end Deadpool
 </h3>
 
 Front-end desenvolvido com a finalidade de estudos de responsividade, efeitos e boas práticas de criação de front-end.
